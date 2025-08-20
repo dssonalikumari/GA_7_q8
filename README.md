@@ -30,6 +30,8 @@ To close the gap from **5.35 → 8**, management should:
    - Improve agility in pricing strategies.  
 
 > **Solution:** Optimize supply chain and demand forecasting.
+> ![Inventory Turnover Trend](inventory_turnover.png)
 
 ## Visualization
 ![Inventory Turnover Trend](turnover_trend.png)
+
