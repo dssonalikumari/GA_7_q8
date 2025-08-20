@@ -1,5 +1,7 @@
 # Retail Performance Analysis
 
+**📅 Report Date:** August 17, 2025 
+
 **Email (for verification):** 23f2004491@ds.study.iitm.ac.in  
 
 ## Business Case
@@ -33,6 +35,7 @@ To close the gap from **5.35 → 8**, management should:
 
 ## Visualization
 > ![Inventory Turnover Trend](inventory_turnover.png)
+
 
 
 
